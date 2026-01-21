@@ -14,11 +14,13 @@ https://www.youtube.com/@Hat2Hack
 
 BLOGS DE CIBERSEGURIDAD EN CASTELLANO:
 
+https://www.seguridadsicom/blog el blog de Kinomakino Joaquín Molina
 https://blog.hackmetrix.com/
 https://www.deltaprotect.com/blog
 https://ciberso.com/blog/
 https://bst04.hashnode.dev/
 https://www.pabloyglesias.com/blog/
+https://www.criptored.es/
 
 PODCAST DE CIBERSEGURIDAD EN CASTELLANO:
 
