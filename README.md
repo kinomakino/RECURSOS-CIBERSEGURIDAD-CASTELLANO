@@ -29,3 +29,13 @@ Tierra de Hackers: https://www.tierradehackers.com/
 Hacking Talkls: https://lnkd.in/grH7TQ5Zhttps://open.spotify.com/show/hackingtalks
 Hat 2 Hack Podcast: https://www.youtube.com/@Hat2Hack
 En clave digital: https://www.youtube.com/@PabloYglesias/podcasts
+
+## Quién está detrás
+
+**Joaquín Molina — «Kinomakino»**  
+Microsoft MVP · +25 años en ciberseguridad · Fundador de [SeguridadSI](https://www.seguridadsi.com)
+
+Si esto te sirve, en la academia enseño a usarlo de verdad: detección,
+Blue Team y seguridad en entornos Microsoft.
+
+👉 [www.seguridadsi.com](https://www.seguridadsi.com)
